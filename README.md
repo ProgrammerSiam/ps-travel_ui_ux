@@ -23,6 +23,9 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
+4. 📚 [What I learned from this project](#learn)
+5. 🚀 [Extra features added to this project](#add)
+
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
@@ -45,4 +48,60 @@
 👉 **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
 
 and many more, including code architecture and reusability 
+
+## <a name="learn">📚 Learn</a>
+
+
+  **Header**:
+-  Create an active link for navigation
+-  Use conditional statements to control the display of elements
+-  Implement dynamic classes to style elements based on conditions
+-  Explore new npm packages like scroll-lock
+-  Build a hamburger menu that toggles visibility of navigation items
+-  Implement click functionality to navigate to different sections of the website
+
+
+  **Hero Section**:
+-  Utilize the react-just-parallax npm package to create a parallax effect
+-  Explore features like curve and BackgroundCircles for visual enhancements  
+
+  **Benefits Section**:
+-  Create a component to maintain consistency in titles
+-  Learn design concepts to improve the visual appeal of your project
+
+  **Collaboration Section**:
+-  Design circular images
+-  Apply design principles to enhance the layout
+
+  **Services Section**:
+-  Implement a Bento Box layout for effective content organization
+
+  **Pricing Section**:
+-  Design a visually appealing pricing table with a left/right orientation  
+
+  **Roadmap Section**:
+-  Utilize advanced grid layouts for a structured design
+
+  **Footer Section**:
+-  Design a simple footer layout
+
+
+
+
+
+## <a name="add">🚀 Extra features added</a>
+
+
+  **Route[/sign up]**:
+-  loading..
+-  loading..
+
+  **Route[/sign in]**:
+- loading..
+- loading..
+
+
+
+
+
 
