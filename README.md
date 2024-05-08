@@ -63,9 +63,13 @@ and many more, including code architecture and reusability
 ## <a name="add">🚀 Extra features added</a>
 
 
+  **navbar**:
+-  loading..
+-  loading..
+
   **Route[/sign up]**:
--  loading..
--  loading..
+- loading..
+- loading..
 
   **Route[/sign in]**:
 - loading..
