@@ -62,7 +62,7 @@ and many more, including code architecture and reusability
 
 ## <a name="add">🚀 Extra features added</a>
 
-
+ 
   **navbar**:
 -  loading..
 -  loading..
