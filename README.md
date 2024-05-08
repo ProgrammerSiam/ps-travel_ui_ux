@@ -71,7 +71,7 @@ and many more, including code architecture and reusability
 - loading..
 - loading..
 
-  **Route[/sign in]**:
+ **Route[/sign in]**:
 - loading..
 - loading..
 
