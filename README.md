@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-     <img src="https://github.com/adrianhajdin/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752" alt="Project Banner">
+     <img src="https://i.ibb.co/s9DptGh/github-banner.jpg" alt="Project Banner">
   <br />
 
   <div>
